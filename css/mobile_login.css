@@ -11,7 +11,7 @@ a{text-decoration: none; color:#333; display:block;}
     width: 375px;
     height: 815px;
     margin:0 auto;
-    background: url('/img/mobile_01_bg.png') center center / cover no-repeat;
+    background: url('../img/mobile_01_bg.png') center center / cover no-repeat;
     /* border: 1px solid #333; */
     box-sizing: border-box;
     padding-top: 105px;
